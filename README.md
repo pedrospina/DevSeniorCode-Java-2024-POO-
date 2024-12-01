@@ -13,7 +13,8 @@ Este repositorio contiene el material, ejemplos y ejercicios para el curso de **
   - Conceptos básicos de POO.
   - Creación de clases, métodos y objetos.
 - **Objetivo:** Aprender a definir clases y crear instancias (objetos) para resolver problemas básicos.
-  [Material de la Clase 1 - Carpeta del repositorio](https://github.com/dsolanovivas/DevSeniorCode-Java-2024-POO-/tree/main/Clase_01)
+
+- [Material de la Clase 1 - Carpeta del repositorio](https://github.com/dsolanovivas/DevSeniorCode-Java-2024-POO-/tree/main/Clase_01)
 
 #### **Enlaces de interés para repaso:**
 - [Java Tutorial - Oracle Docs](https://docs.oracle.com/javase/tutorial/java/index.html)
