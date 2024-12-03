@@ -31,6 +31,15 @@ Este repositorio contiene el material, ejemplos y ejercicios para el curso de **
   - Implementación de herencia para la reutilización de código.
 - **Objetivo:** Comprender cómo encapsular datos y utilizar herencia para extender funcionalidades.
 
+- [Material de la Clase 2 - Carpeta del repositorio](https://github.com/dsolanovivas/DevSeniorCode-Java-2024-POO-/tree/main/Clase_02)
+
+#### **Enlaces de interés para repaso:**
+- [Java Tutorial - Encapsulation](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
+- [Inheritance - Oracle Docs](https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html)
+- [Java Encapsulation - W3Schools](https://www.w3schools.com/java/java_encapsulation.asp)
+- [Inheritance in Java - GeeksforGeeks](https://www.geeksforgeeks.org/inheritance-in-java/)
+- [Modificadores de Acceso en Java - Aprender a Programar](https://www.programarya.com/Cursos/Java/Modificadores-de-Acceso)
+
 ---
 
 ### **Clase 3: Polimorfismo e Interfaces**
