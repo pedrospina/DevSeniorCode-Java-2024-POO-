@@ -40,7 +40,7 @@ public class Book {
         System.out.println("Is busy: " + isBusy);
     }
 
-    public void getBook() {
+    protected void getBook() {
         if (!isBusy) {
             isBusy = true;
             System.out.println("El libro: " + title + " ha sido prestado ");
