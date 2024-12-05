@@ -47,6 +47,17 @@ Este repositorio contiene el material, ejemplos y ejercicios para el curso de **
   - Implementación de interfaces para definir contratos.
   - Uso del polimorfismo para cambiar el comportamiento en tiempo de ejecución.
 - **Objetivo:** Aplicar polimorfismo e interfaces en la resolución de problemas.
+  
+- [Material de la Clase 3 - Carpeta del repositorio](https://github.com/dsolanovivas/DevSeniorCode-Java-2024-POO-/tree/main/Clase_03)
+
+#### **Enlaces de interés para repaso:**
+- [Java Tutorial - Polymorphism](https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html)
+- [Interface - Oracle Docs](https://docs.oracle.com/javase/tutorial/java/IandI/createinterface.html)
+- [Java Polymorphism - W3Schools](https://www.w3schools.com/java/java_polymorphism.asp)
+- [Java Interface - W3Schools](https://www.w3schools.com/java/java_interface.asp)
+- [Polymorphism in Java - GeeksforGeeks](https://www.geeksforgeeks.org/polymorphism-in-java/)
+- [Interface in Java - GeeksforGeeks](https://www.geeksforgeeks.org/interfaces-in-java/)
+- [Polimorfismo en Java -Interface](https://jarroba.com/polimorfismo-en-java-interface-parte-ii-con-ejemplos/)
 
 ---
 
@@ -98,5 +109,5 @@ Este repositorio contiene el material, ejemplos y ejercicios para el curso de **
 ## **Cómo Usar Este Repositorio**
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/poo-java-curso.git
-   cd poo-java-curso
+   git clone https://github.com/dsolanovivas/DevSeniorCode-Java-2024-POO-
+   cd DevSeniorCode-Java-2024-POO-
