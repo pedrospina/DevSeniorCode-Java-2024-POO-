@@ -85,7 +85,13 @@ Este repositorio contiene el material, ejemplos y ejercicios para el curso de **
   - Diseño efectivo utilizando principios de POO.
 - **Objetivo:** Identificar cuándo usar herencia o composición para mantener un diseño flexible y reutilizable.
 
-- [Material de la Clase 4 - Carpeta del repositorio](https://github.com/dsolanovivas/DevSeniorCode-Java-2024-POO-/tree/main/Clase_05)
+- [Material de la Clase 5 - Carpeta del repositorio](https://github.com/dsolanovivas/DevSeniorCode-Java-2024-POO-/tree/main/Clase_05)
+
+#### **Enlaces de interés para repaso:**
+- [Composición vs Herencia - Oracle Docs](https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html)
+- [Composite Design Pattern in Java - GeeksforGeeks](https://www.geeksforgeeks.org/composite-design-pattern-in-java/)
+- [JavaTPoint: Composition in Java](https://www.javatpoint.com/composition-in-java)
+
 
 ---
 
