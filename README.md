@@ -66,6 +66,16 @@ Este repositorio contiene el material, ejemplos y ejercicios para el curso de **
   - Implementación del patrón Singleton para garantizar una única instancia.
   - Uso del patrón Factory para la creación dinámica de objetos.
 - **Objetivo:** Comprender patrones básicos de diseño y cómo aplicarlos en proyectos.
+  
+- [Material de la Clase 4 - Carpeta del repositorio](https://github.com/dsolanovivas/DevSeniorCode-Java-2024-POO-/tree/main/Clase_04)
+
+#### **Enlaces de interés para repaso:**
+- [Singleton Pattern - Oracle Docs](https://docs.oracle.com/javase/tutorial/java/javaOO/nested.html)
+- [Factory Pattern - Refactoring Guru](https://refactoring.guru/es/design-patterns/factory-method)
+- [Design Patterns in Java - GeeksforGeeks](https://www.geeksforgeeks.org/java-design-patterns/)
+- [W3Schools - Java Design Patterns](https://www.w3schools.blog/java-design-patterns-tutorial-with-examples)
+- [JavaTPoint - Singleton](https://www.javatpoint.com/singleton-design-pattern-in-java)
+- [GeeksforGeeks - Factory](https://www.geeksforgeeks.org/factory-method-for-designing-pattern/)
 
 ---
 
@@ -74,6 +84,8 @@ Este repositorio contiene el material, ejemplos y ejercicios para el curso de **
   - Diferencias entre composición y herencia.
   - Diseño efectivo utilizando principios de POO.
 - **Objetivo:** Identificar cuándo usar herencia o composición para mantener un diseño flexible y reutilizable.
+
+- [Material de la Clase 4 - Carpeta del repositorio](https://github.com/dsolanovivas/DevSeniorCode-Java-2024-POO-/tree/main/Clase_05)
 
 ---
 
