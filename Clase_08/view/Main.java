@@ -17,7 +17,6 @@ public class Main {
 
         SistemaEmergencias sistema = SistemaEmergencias.getInstancia();
 
-        // Registramos algunos recursos de ejemplo
         inicializarRecursosDemo(sistema);
 
         Scanner sc = new Scanner(System.in);
@@ -64,8 +63,6 @@ public class Main {
         }
         sc.close();
     }
-
-    // Métodos auxiliares
 
     private static void inicializarRecursosDemo(SistemaEmergencias sistema) {
         sistema.registrarRecurso(new Bomberos("Unidad-B1", 5, 100));
