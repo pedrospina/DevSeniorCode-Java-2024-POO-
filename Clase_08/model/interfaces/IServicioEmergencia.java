@@ -1,5 +1,7 @@
 package Clase_08.model.interfaces;
 
+import Clase_08.model.Emergencia;
+
 public interface IServicioEmergencia {
     String getId();
 
@@ -17,6 +19,6 @@ public interface IServicioEmergencia {
 
     void tanquearCombustible(int cantidad);
 
-    //
+    void atenderEmergencia(Emergencia emergencia);
 
 }

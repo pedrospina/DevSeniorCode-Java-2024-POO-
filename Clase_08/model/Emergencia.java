@@ -89,7 +89,7 @@ public abstract class Emergencia {
     }
 
     public String getDescripcion() {
-        return String.format("%s en %s (gravedad: s%)", tipo, ubicacion, nivelGravedad);
+        return String.format("%s en %s (gravedad: %s)", tipo, ubicacion, nivelGravedad);
     }
 
     public String toString() {

@@ -9,7 +9,7 @@ import Clase_08.utils.TipoEmergencia;
 
 public class FactoryEmergencias {
 
-    public static Emergencia CrearEmergencia(TipoEmergencia tipo, String ubicacion, NivelGravedad nivelGravedad,
+    public static Emergencia crearEmergencia(TipoEmergencia tipo, String ubicacion, NivelGravedad nivelGravedad,
             int tiempoRespuesta) {
 
         switch (tipo) {
